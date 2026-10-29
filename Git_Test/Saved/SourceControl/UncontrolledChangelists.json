@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"N:/Downloads/Git_Test/Git_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EU/X5MT1GOX9C5UUGZAKRVC3R.uasset",
+				"N:/Downloads/Git_Test/Git_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/GE/0S30CZ3AEZM9I08LVOQY89.uasset",
+				"N:/Downloads/Git_Test/Git_Test/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/AA/EL3UWWAL6KPPKYL8LRIOFP.uasset"
+			]
+		}
+	]
+}
